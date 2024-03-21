@@ -1,6 +1,6 @@
-# GGLClone 
+# Redesigned Google
 
-Welcome to GGLClone, a project that offers a fresh take on the iconic Google search engine interface.
+A project that offers a fresh take on the iconic Google search engine interface.
 
 ## About
 
@@ -8,7 +8,7 @@ This is an HTML, CSS, and JavaScript project aimed at reimagining the Google sea
 
 ## Demo
 
-[Click to see](https://github.com/sanjay-munde/Redesigned-Google/edit/main/LICENSE)
+[Click to see](https://sanjay-munde.github.io/Redesigned-Google/)
 
 
 ## Customization
@@ -18,7 +18,7 @@ GGLClone is highly customizable, allowing you to tailor the design and functiona
 ## Roadmap
 
 - **Dark Mode:** 
-- **Localization:** E
+- **Localization:** 
 - **Enhanced Discover Feed:** 
 
 ## License
